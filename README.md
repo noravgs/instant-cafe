@@ -1,4 +1,4 @@
-# Rainbow Reads
+# Instant Cafe
 An ordering and delivery coffee related menu APP. 
 
 ![image]()
@@ -26,7 +26,7 @@ Take a look at these couple examples that I have in my own portfolio:
 **Mix It Up:** https://github.com/noravgs/mix-it-up-API
 
 **Concert Todo:** https://github.com/noravgs/concert-todo
-# Getting Started with Create React App
+# Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
