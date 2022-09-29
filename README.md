@@ -1,7 +1,7 @@
 # Instant Cafe
 An ordering and delivery coffee related menu APP. 
 
-![image]()
+![image](https://github.com/noravgs/instant-cafe/blob/main/public/Images/instant-cafe-app-sm.gif?raw=true)
 
 ## How It's Made:
 
