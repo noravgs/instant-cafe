@@ -1,5 +1,5 @@
 # Instant Cafe
-Ordering & delivery coffee related menu APP. 
+WIP Ordering & delivery coffee related menu APP. 
 Link to project: https://instantcafe.netlify.app/
 
 ![image](https://github.com/noravgs/instant-cafe/blob/main/public/Images/instant-cafe-app-sm.gif?raw=true)
