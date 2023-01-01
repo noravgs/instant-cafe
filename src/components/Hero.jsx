@@ -1,4 +1,5 @@
 import React from 'react'
+import hero from '../Assets/heroimg.jpg'
 
 
 const Hero = () => {
@@ -10,7 +11,7 @@ const Hero = () => {
                <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>The Best</h1>
                <h2 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>Coffee Delivered</h2>
            </div>
-           <img className='w-full max-h-[500px] object-cover' src="https://images.pexels.com/photos/1233534/pexels-photo-1233534.jpeg?cs=srgb&dl=pexels-di-bella-coffee-1233534.jpg&fm=jpg" alt="/"/>
+           <img className='w-full max-h-[500px] object-cover' src={hero} alt="/"/>
        </div>
    </div>
  )
